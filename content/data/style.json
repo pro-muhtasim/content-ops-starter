@@ -7,10 +7,10 @@
     "fontBody": "sans",
     "fontHeadlines": "sans",
     "h1": {
-        "size": "5xl",
+        "size": "9xl",
         "weight": "normal",
         "decoration": "none",
-        "case": "lowercase",
+        "case": "capitalize",
         "letterSpacing": "normal",
         "type": "ThemeStyleHeading"
     },
